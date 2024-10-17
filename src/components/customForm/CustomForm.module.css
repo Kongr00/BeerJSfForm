@@ -17,12 +17,19 @@
             color: #fff;
             padding: 10px 25px;
             border-radius: 5px;
+            cursor: pointer;
+            transition: all .2s;
+        }
+        .submitBtn:hover{
+            background-color: #4f2387;
+
         }
         .clearBtn{
             border: none;
             color: #622462;
             background-color: transparent;
             padding: 10px;
+            cursor: pointer;
         }
     }
 
