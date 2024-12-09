@@ -1,5 +1,4 @@
 import './App.css'
-import CustomForm from "./components/customForm/CustomForm.tsx";
 
 function App() {
 
@@ -7,7 +6,6 @@ function App() {
   return (
     <div>
         <div className={"container"}>
-            <CustomForm/>
         </div>
     </div>
   )
