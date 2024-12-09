@@ -1,5 +1,4 @@
 import './App.css'
-import CustomForm from "./components/customForm/CustomForm.tsx";
 
 function App() {
 
